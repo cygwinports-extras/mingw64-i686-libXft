@@ -4,7 +4,7 @@ inherit cross xorg
 
 NAME="mingw64-i686-libXft"
 VERSION=2.3.1
-RELEASE=1
+RELEASE=2
 CATEGORY="Devel"
 SUMMARY="X.Org X FreeType library for Win32 toolchain"
 DESCRIPTION="This package does NOT contain cygwin binaries.  Instead, it
